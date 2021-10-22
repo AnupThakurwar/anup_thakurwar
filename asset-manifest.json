@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/css/main.aac0537b.chunk.css",
-    "main.js": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/main.02de95b6.chunk.js",
-    "main.js.map": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/main.02de95b6.chunk.js.map",
-    "runtime-main.js": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/runtime-main.514aaf9b.js",
-    "runtime-main.js.map": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/runtime-main.514aaf9b.js.map",
-    "static/js/2.f60e8a01.chunk.js": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/2.f60e8a01.chunk.js",
-    "static/js/2.f60e8a01.chunk.js.map": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/2.f60e8a01.chunk.js.map",
-    "static/js/3.af2ca3e3.chunk.js": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/3.af2ca3e3.chunk.js",
-    "static/js/3.af2ca3e3.chunk.js.map": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/3.af2ca3e3.chunk.js.map",
-    "index.html": "/npm%20install%20--save%20gh-pagesanup_thakurwar/index.html",
-    "static/css/main.aac0537b.chunk.css.map": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/css/main.aac0537b.chunk.css.map",
-    "static/js/2.f60e8a01.chunk.js.LICENSE.txt": "/npm%20install%20--save%20gh-pagesanup_thakurwar/static/js/2.f60e8a01.chunk.js.LICENSE.txt"
+    "main.css": "/anup_thakurwar/static/css/main.aac0537b.chunk.css",
+    "main.js": "/anup_thakurwar/static/js/main.02de95b6.chunk.js",
+    "main.js.map": "/anup_thakurwar/static/js/main.02de95b6.chunk.js.map",
+    "runtime-main.js": "/anup_thakurwar/static/js/runtime-main.07d73439.js",
+    "runtime-main.js.map": "/anup_thakurwar/static/js/runtime-main.07d73439.js.map",
+    "static/js/2.f60e8a01.chunk.js": "/anup_thakurwar/static/js/2.f60e8a01.chunk.js",
+    "static/js/2.f60e8a01.chunk.js.map": "/anup_thakurwar/static/js/2.f60e8a01.chunk.js.map",
+    "static/js/3.af2ca3e3.chunk.js": "/anup_thakurwar/static/js/3.af2ca3e3.chunk.js",
+    "static/js/3.af2ca3e3.chunk.js.map": "/anup_thakurwar/static/js/3.af2ca3e3.chunk.js.map",
+    "index.html": "/anup_thakurwar/index.html",
+    "static/css/main.aac0537b.chunk.css.map": "/anup_thakurwar/static/css/main.aac0537b.chunk.css.map",
+    "static/js/2.f60e8a01.chunk.js.LICENSE.txt": "/anup_thakurwar/static/js/2.f60e8a01.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.514aaf9b.js",
+    "static/js/runtime-main.07d73439.js",
     "static/js/2.f60e8a01.chunk.js",
     "static/css/main.aac0537b.chunk.css",
     "static/js/main.02de95b6.chunk.js"
