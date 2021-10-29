@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/anup_thakurwar/static/css/main.4090e10f.chunk.css",
+    "main.css": "/anup_thakurwar/static/css/main.3c0f1e6f.chunk.css",
     "main.js": "/anup_thakurwar/static/js/main.9cee20c5.chunk.js",
     "main.js.map": "/anup_thakurwar/static/js/main.9cee20c5.chunk.js.map",
     "runtime-main.js": "/anup_thakurwar/static/js/runtime-main.1a6c06cf.js",
@@ -10,13 +10,13 @@
     "static/js/3.5d03be06.chunk.js": "/anup_thakurwar/static/js/3.5d03be06.chunk.js",
     "static/js/3.5d03be06.chunk.js.map": "/anup_thakurwar/static/js/3.5d03be06.chunk.js.map",
     "index.html": "/anup_thakurwar/index.html",
-    "static/css/main.4090e10f.chunk.css.map": "/anup_thakurwar/static/css/main.4090e10f.chunk.css.map",
+    "static/css/main.3c0f1e6f.chunk.css.map": "/anup_thakurwar/static/css/main.3c0f1e6f.chunk.css.map",
     "static/js/2.6e579205.chunk.js.LICENSE.txt": "/anup_thakurwar/static/js/2.6e579205.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1a6c06cf.js",
     "static/js/2.6e579205.chunk.js",
-    "static/css/main.4090e10f.chunk.css",
+    "static/css/main.3c0f1e6f.chunk.css",
     "static/js/main.9cee20c5.chunk.js"
   ]
 }
